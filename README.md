@@ -6,7 +6,7 @@ I'm a full-stack software engineer and AWS-certified architect on a mission to b
 
 ### What I Do
 
-- **Machine Learning** — Building ML models and deploying intelligent systems
+- 🧠 **Machine Learning** — Building ML models and deploying intelligent systems
 - **DevOps Engineering** — Automating CI/CD, containerizing everything, optimizing cloud workflows
 - **Cloud Infrastructure** — AWS Certified (SA Pro, DevOps, SysOps, Security)
 
@@ -35,12 +35,11 @@ I’m **breaking in, building up, and bringing others with me**.
 
 ---
 
-<!--
-### Follow My Journey
+<!-- ### Follow My Journey
 - [YouTube Channel](https://your-link) — “Becoming an MLOps Engineer from the Ground Up”
-- [LinkedIn](https://your-link) — Daily insights, reflections, and progress -->
+- [LinkedIn](https://your-link) — Daily insights, reflections, and progress
 
----
+--- -->
 
 ### Let’s Connect
 
