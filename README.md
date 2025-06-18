@@ -6,7 +6,7 @@ I'm a full-stack software engineer and AWS-certified architect on a mission to b
 
 ### What I Do
 
-- 🧠 **Machine Learning** — Building ML models and deploying intelligent systems
+- **Machine Learning** — Building ML models and deploying intelligent systems
 - **DevOps Engineering** — Automating CI/CD, containerizing everything, optimizing cloud workflows
 - **Cloud Infrastructure** — AWS Certified (SA Pro, DevOps, SysOps, Security)
 
