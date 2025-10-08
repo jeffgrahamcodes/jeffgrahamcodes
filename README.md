@@ -34,7 +34,7 @@ I'm on a mission to become a top 1% DevSecOps engineer specializing in Infrastru
 
 **[secure-cloud-platform](https://github.com/jeffgrahamcodes/secure-cloud-platform)** - Production-ready microservices platform on AWS EKS demonstrating DevSecOps best practices with Terraform IaC, container security scanning, and automated CI/CD pipelines.
 
-## 📝 Writing
+## Writing
 
 I write about DevOps, cloud security, and my career transition:
 - [Dev.to](https://dev.to/jeffgrahamcodes)
