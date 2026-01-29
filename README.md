@@ -1,6 +1,8 @@
 # Hey, I’m Jeff
 
-**Backend Software Engineer (Python-first · Cloud-Native · AWS)**  Designing and building scalable, secure backend systems with production-grade cloud architecture.
+**Backend Software Engineer (Python-first · Cloud-Native · AWS)**
+
+*Designing and building scalable, secure backend systems with production-grade cloud architecture.*
 
 ---
 
