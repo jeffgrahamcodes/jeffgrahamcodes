@@ -49,12 +49,12 @@ Five years of backend and cloud engineering across AWS, Bloomberg Industry Group
 Currently building EventFlow as a Staff+ portfolio project while preparing for a full-time backend/cloud engineering role (available summer 2026).
 
 ---
-
+<!-- 
 ## Writing & Content
 
 - **YouTube**: [Jeff Graham Codes](https://youtube.com/@jeffgrahamcodes) — Build With Me, Explained Simply, Career Changer Diaries
 - **dev.to**: Technical deep-dives on EDA, AWS serverless, and Python backend engineering
-- **Mission**: Increasing representation from underrepresented communities in tech
+- **Mission**: Increasing representation from underrepresented communities in tech -->
 
 ---
 
