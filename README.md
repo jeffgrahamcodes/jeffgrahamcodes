@@ -1,70 +1,65 @@
-# Hey, I’m Jeff
+# Hey, I'm Jeff Graham
 
-**Backend Software Engineer (Python-first · Cloud-Native · AWS)**
+**Backend & Cloud Engineer · Python · AWS Serverless · Event-Driven Architecture**
 
-*Designing and building scalable, secure backend systems with production-grade cloud architecture.*
-
----
-
-## About Me
-
-I’m a backend-focused software engineer with a strong foundation in Python, Django, and AWS cloud architecture. I bring a systems mindset from my background as a middle school STEM teacher—breaking down complexity, designing for scale, and building solutions meant to last.
-
-I focus on backend services that are cloud-native, secure, observable, and cost-aware.
-
-AWS Certified Solutions Architect – Professional
-
-I’m currently:
-- Building Django-based backend services
-- Designing RESTful APIs with authentication and authorization
-- Modeling and managing relational data
-- Deploying and scaling systems on AWS
-- Applying AWS Well-Architected Framework principles in real projects
+*Building production-grade distributed systems and the developer platforms that make them easier to work with.*
 
 ---
 
-## Tech Stack
+## What I'm Building
 
-### Backend Engineering
-- Python
-- Django and Django REST Framework
-- REST API design (JSON, OpenAPI / Swagger)
-- PostgreSQL, data modeling, Django ORM
+### [EventFlow](https://github.com/jeffgrahamcodes/eventflow)
+A production-grade, event-driven order processing platform on AWS serverless — and a developer platform layered on top of it.
 
-### Cloud and Infrastructure
-- AWS (Solutions Architect – Professional)
-  - EC2, RDS, S3, IAM
-  - VPC, networking, and security fundamentals
-  - Lambda and event-driven components
-  - High availability, fault tolerance, and cost optimization
-- Docker
-- CI/CD with GitHub Actions
+- **Event schema layer** — 9 Pydantic v2 event models, field validators, StrEnum constraints, correlation ID threading for distributed tracing
+- **Service layer** — OrderService, InventoryService, PaymentService, NotificationService wired through an in-memory event bus (in progress)
+- **AWS infrastructure** — EventBridge, SQS, Lambda, DynamoDB via AWS CDK (TypeScript) (coming Sprint 3)
+- **Developer platform** — CLI scaffolding tools and CDK L3 constructs (coming Phase 3)
 
-### Engineering Practices
-- Git and GitHub
-- Automated testing (pytest, Django test framework)
-- Environment configuration and secrets management
-- Logging, monitoring, and debugging
+100% test coverage · ADR-documented decisions · Built in public
 
 ---
 
-## Featured Projects
+## Stack
 
-### Backend and Cloud Projects
-- Project-Name-1 – *Coming Soon*
-
+| Layer | Technology |
+|-------|------------|
+| Language | Python 3.12 |
+| Event schemas | Pydantic v2 |
+| Cloud | AWS (EventBridge · SQS · Lambda · DynamoDB) |
+| IaC | AWS CDK (TypeScript) |
+| Package manager | uv |
+| Linter / formatter | ruff |
+| Type checker | mypy |
+| Testing | pytest |
 
 ---
 
-## What I’m Building Now
+## Certifications
 
-- A production-grade Django backend deployed on AWS
-- A reference architecture project demonstrating SA Pro–level decisions
-- Clear documentation explaining architectural tradeoffs and design choices
+- AWS Certified Solutions Architect — Professional
+- AWS Certified SysOps Administrator — Associate
+
+---
+
+## Background
+
+Five years of backend and cloud engineering across AWS, Bloomberg Industry Group, and Cognizant. Partner Solutions Architect at AWS. Before that, 15 years in education — which is why I can explain a distributed system on a whiteboard in a way that actually lands.
+
+Currently building EventFlow as a Staff+ portfolio project while preparing for a full-time backend/cloud engineering role (available summer 2026).
+
+---
+
+## Writing & Content
+
+- **YouTube**: [Jeff Graham Codes](https://youtube.com/@jeffgrahamcodes) — Build With Me, Explained Simply, Career Changer Diaries
+- **dev.to**: Technical deep-dives on EDA, AWS serverless, and Python backend engineering
+- **Mission**: Increasing representation from underrepresented communities in tech
 
 ---
 
 ## Connect
 
-LinkedIn: https://www.linkedin.com/in/jeffgrahamcodes
-Email: jeffgrahamcodes@gmail.com
+- LinkedIn: [linkedin.com/in/jeffgrahamcodes](https://linkedin.com/in/jeffgrahamcodes)
+- Email: jeffgrahamcodes@gmail.com
+- GitHub: you're already here
