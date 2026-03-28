@@ -46,7 +46,7 @@ A production-grade, event-driven order processing platform on AWS serverless —
 
 Five years of backend and cloud engineering across AWS, Bloomberg Industry Group, and Cognizant. Partner Solutions Architect at AWS. Before that, 15 years in education — which is why I can explain a distributed system on a whiteboard in a way that actually lands.
 
-Currently building EventFlow as a Staff+ portfolio project while preparing for a full-time backend/cloud engineering role (available summer 2026).
+Currently building EventFlow as a portfolio project while preparing for a full-time backend/cloud engineering role (available summer 2026).
 
 ---
 <!-- 
@@ -56,7 +56,7 @@ Currently building EventFlow as a Staff+ portfolio project while preparing for a
 - **dev.to**: Technical deep-dives on EDA, AWS serverless, and Python backend engineering
 - **Mission**: Increasing representation from underrepresented communities in tech -->
 
----
+<!-- --- -->
 
 ## Connect
 
