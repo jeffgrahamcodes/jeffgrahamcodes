@@ -6,13 +6,16 @@ Right now I teach math and computer science to 9th graders in DC. Turns out expl
 
 I'm heading back into full-time engineering, aiming at forward deployed and AI engineering roles: sitting with a customer, figuring out what they actually need, and shipping it into production. This is where I build in the meantime, one shipped project per course I take.
 
-**What I'm working on**
+**Building now: AI agents**
 
 - 📞 [**Lead Catcher**](https://github.com/jeffgrahamcodes/lead-catcher): an after-hours AI receptionist for small businesses. An ElevenLabs voice agent answers the call, n8n webhooks look up answers, check the calendar and book appointments, and leads land in Pipedrive. *In progress, shipping Nov 27.*
-- 🔁 [**EventFlow**](https://github.com/jeffgrahamcodes/eventflow): event-driven order processing on AWS serverless. EventBridge, SQS, Lambda, DynamoDB, CDK, typed events with Pydantic, ADRs for the decisions.
-- 🚪 [**Hall-Waze**](https://github.com/jeffgrahamcodes/student-tracking-app): a hall pass system teachers at my school actually used. React, Firebase, role-based access, Excel schedule imports.
 - 📚 [**LearnLift**](https://github.com/jeffgrahamcodes/learnlift): an AI writing coach for middle schoolers. Next.js and TypeScript up front, FastAPI behind it.
+
+**Shipped: cloud and production**
+
+- 🔁 [**EventFlow**](https://github.com/jeffgrahamcodes/eventflow): event-driven order processing on AWS serverless. EventBridge, SQS, Lambda, DynamoDB, CDK, typed events with Pydantic, ADRs for the decisions.
 - ☸️ [**Secure Cloud Platform**](https://github.com/jeffgrahamcodes/secure-cloud-platform): three microservices taken from Docker to a multi-AZ EKS cluster, with the VPC and cluster in Terraform.
+- 🚪 [**Hall-Waze**](https://github.com/jeffgrahamcodes/student-tracking-app): a hall pass system teachers at my school actually used. React, Firebase, role-based access, Excel schedule imports.
 
 **Stack I reach for:** Python, TypeScript, Node, React/Next.js, AWS (CDK and Terraform), DynamoDB, Firebase, GitHub Actions
 
